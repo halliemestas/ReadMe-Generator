@@ -45,13 +45,14 @@
   ## [Usage](#table-of-contents)
   When the program runs, you will be prompted to answer a series of required questions to generate the ReadMe for your project. 
   
-  Read more about Academic Free License v3.0 here:
 
   ## [Tests](#table-of-contents)
   A video test is being conducted to show the use and testing of the application.
+  https://drive.google.com/file/d/1pH4a1NN2xhZmQ5ARRgd9D1PsSJt0Zb3k/view
 
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
+
   [GitHub](https://github.com/halliemestas)
+
   [Email: halliemestas@gmail.com](mailto:halliemestas@gmail.com)
-# ReadMe-Generator
